@@ -1,0 +1,25 @@
+import java.util.*;
+class Solution{
+	public static void main (String [] junardo){
+		Scanner kb = new Scanner(System.in);
+		int a = kb.nextInt();
+		int b = kb.nextInt();
+		int facOfA=1;
+		int facOfB=1;
+		int holder;
+		for (int i=1;i<=a; i++){
+			facOfA=facOfA*i;
+		}
+		for (int g=1;g<=b; g++){
+			facOfB=facOfB*g;
+		}
+		if(facOfB != 0){
+			do{
+				holder = facOfB;
+				facOfA = holder;
+				facOfB = facOfA % facOfB;
+			}while(facOfB != 0);
+		}
+		System.out.print(facOfA);
+	}
+}
