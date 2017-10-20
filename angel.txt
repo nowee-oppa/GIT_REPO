@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6CA0-489C
+
+ Directory of C:\Users\Noe Mendoza\GIT_REPO
+
+10/20/2017  03:03 PM    <DIR>          .
+10/20/2017  03:03 PM    <DIR>          ..
+10/20/2017  03:03 PM                 0 angel.txt
+10/20/2017  02:50 PM               499 bagongProgramniJunardo.txt
+10/20/2017  02:52 PM                83 biyena.txt
+10/20/2017  02:50 PM               198 Convo.txt
+10/20/2017  02:50 PM               499 Junardo.txt
+10/20/2017  02:50 PM                12 README.md
+               6 File(s)          1,291 bytes
+               2 Dir(s)  297,080,844,288 bytes free
+
+Ayos ah. Sugoi~
