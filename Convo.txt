@@ -28,3 +28,6 @@ Practice daw tayo.
 
 18 NOV
 Up to date ba?
+
+25 NOV
+Pag-aralan natin ang Git
